@@ -1,5 +1,7 @@
 # Moonlight + Sunshine 가상 모니터 전환 시스템
 
+[English version](./README_EN.md)
+
 ## 이 시스템이 하는 일
 
 Sunshine으로 원격 스트리밍(Moonlight)할 때, 다음이 전부 자동으로 처리됩니다.
