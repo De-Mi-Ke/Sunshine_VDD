@@ -11,7 +11,7 @@ When streaming remotely via Sunshine (with Moonlight as the client), the followi
 
 ---
 
-## 🤖 For Whoever Shows This to Claude
+## For Whoever Shows This to Claude
 
 Upload this zip and README to Claude (claude.ai) and ask it to "set up this system for my environment." Below is the full structure, the role of each file, and the **placeholder values that must be regenerated per user**, so Claude can walk you through it. Claude should ask you about your monitor count/layout and the devices you'll connect from (phone model, tablet, PC resolution, etc.), then fill in the corresponding parts of the scripts.
 
