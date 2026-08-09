@@ -2,6 +2,8 @@
 
 [English version](./README_EN.md)
 
+[다운로드](https://github.com/De-Mi-Ke/Sunshine_VDD/releases/tag/Main)
+
 ## 이 시스템이 하는 일
 
 Sunshine으로 원격 스트리밍(Moonlight)할 때, 다음이 전부 자동으로 처리됩니다.
